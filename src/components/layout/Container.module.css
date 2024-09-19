@@ -1,0 +1,10 @@
+.container {
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2em 3em;
+    background-color: #1F1F1F;
+    border-radius: 1em;
+}
